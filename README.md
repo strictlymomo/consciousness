@@ -1,7 +1,6 @@
 # consciousness
 
-Exploring Consciousness
-
+Exploring Consciousness.
 This project will collect and analyze youtube transcripts on the topics of consciousness to create a map of the ideas and theories that are being discussed.
 
 **Channels**
@@ -10,15 +9,19 @@ This project will collect and analyze youtube transcripts on the topics of consc
 - [Closer To Truth](https://www.youtube.com/@CloserToTruthTV)
 - [New Thinking Allowed with Jeffrey Mishlove](https://www.youtube.com/@NewThinkingAllowed)
 
-# Workflow
+## Workflow
+
+0. Provision environment and dependencies
+
+   - `sh init.sh`
 
 1. Get data programmatically from [youtube](https://developers.google.com/youtube/v3/getting-started)
 
-   - See `hello-world.sh`
+   - `sh hello-world.sh`
 
 2. Extract transcripts
 
-   - See `hello-world.py`
+   - See `python3 -m hello-world"`
 
 3. Analyze transcripts
 
