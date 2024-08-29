@@ -1,0 +1,620 @@
+CURT
+This is an episode that's been almost one year in the making,
+the theolocution of Donald Hoffman and Joscha Bach,
+- Donald Hoffman
+    - professor at the University of Irvine, California,
+    - studying consciousness and evolutionary psychology using mathematical models
+- Joscha Bach 
+    - cognitive scientist recognized in the field of AI as being exceptionally ingenious.
+
+Both have unexampled views of consciousness and free will, which harmonize and contradict in prepossessing and informative ways.
+
+Great. There are already 275 people watching. Firstly, it's a distinct honor to be here.
+Thank you both, Don and Joscha. I appreciate it tremendously and the audience does as well.
+This theories of everything project is about exploring grand unified theories and theoretical
+physics, as you know, and understanding consciousness and free will. I see those,
+or at least intuit that those are integrally tied. And it's those, the latter two topics that bring us
+here. 
+
+Don, why don't we start with your definition of free will as well as how you view consciousness.
+And you mentioned that you would like to give an overview of your point of view on science and
+theories of everything in general. 
+
+And then Joscha, you'll join afterward and commend Donald or amend
+him. And then I'll pretty much shut my mouth and allow you both to speak to one another
+interjecting only seldom. Okay. Thank you, Curt. And good to see you, Joscha.
+
+DONALD HOFFMAN
+
+My attitude about science:
+what Newton famously said
+
+he thought of himself as like a little boy playing on the seashore
+looking at some nice pebbles and shells 
+while all before him lay the vast ocean of truth that was undiscovered
+
+- good attitude for us as scientists to have is that as much as we've done, we've really not even begun to explore the possibilities
+of truth. 
+
+And what's interesting is that Newton's followers famously didn't follow him on that.
+In the late 19th century, a lot of Newtonians thought that it was pretty much over. 
+They had a theory of everything. 
+There were a few little wrinkles. 
+There was the problem of Michelson-Morley experiment and blackbody radiation wasn't quite working out according to Newton, but they thought that that was pretty minor stuff and they would figure that all out and physics was pretty much done. 
+And we've discovered that no, physics was hardly beginning. 
+
+There was so much more to discover. 
+And so my attitude is that science cannot have a theory of everything in principle, that we will always be on Newton's seashore. 
+We'll always be like Newton, the little boy playing with pebbles and shells while the vast truth lays undiscovered before us, the ocean of truth. 
+And it's for a principled reason that scientific theories, if you look at how they're structured, we start with a good scientific theory, tells you exactly what its assumptions are. 
+This is what I'm assuming. 
+These are the derivation rules that I allow. 
+And then everything about the theory follows from that. 
+But that theory doesn't explain its assumptions. 
+
+The assumptions are what's assumed. 
+So Einstein in his special theory of relativity assumes that light travels at the same speed for all observers in all inertial reference frames.
+But that theory doesn't tell you what light is. 
+And in fact, Einstein spent his whole life wondering what light is and toward the end of his life said, I've spent my whole life studying it and I still have no idea what light really is. 
+And so we're in that situation as scientists where what we're doing is valuable. It's absolutely essential because we're being precise about our assumptions. We're being precise about what they entail. But there's going to be a fundamental limit. 
+And my guess is that science, as valuable as it is, is one of the most important advances that humanity has made, will always and only scratch the surface beyond the seashore with Newton while the vast ocean lays undiscovered. 
+So when we talk about theories of consciousness
+and free will and so forth going forward, I do it with sort of a very modest look at my own ideas.
+The ideas are going to be very much in the framework of these are the best ideas we've come up with so far. 
+Of course, there's going to be much, much deeper work ahead and much more to discover ahead. So we just have to, as scientists, be precise about the current assumptions we're
+making and why we're making them and what follows from them, but be completely open to radical transformations in knowledge and radical new understandings.
+
+Your view on consciousness and free will.
+So in a nutshell, my views on consciousness are not physicalist.
+So physicalist approaches will say that we will start with space-time and some of its contents, particles, neurons, neural systems, neural networks.
+And those will be, so that's a scientific theory in which those are our assumptions.
+Space-time and its contents are fundamental and particular contents may be very, very important.
+For example, dynamical systems on neural networks, for example.
+And from that, we're going to try to boot up subjective experience.
+And that's perfectly a fine project to try to do.
+What I would want from that physicalist approach would be not a hand wave, but a specific accomplishment.
+So how do we start with dynamical systems of neural networks and come up with the taste of chocolate or the smell of garlic or something specific?
+Some specific conscious experience where we say, my scientific theory says why this dynamical system of activity in neurons or in computer system or something like that must be the taste of chocolate.
+It could not be the smell of garlic.
+And these are the principled reasons why.
+If something like that were on the table, I would be impressed.
+Until then, I'm not impressed.
+And there's nothing on the table yet that can do that.
+So that's one reason why I've been casting around and looking for a different direction.
+It's not starting with the physical, but starting somewhere else.
+And partly because, and we can talk about this in greater detail, because our best scientific theories right now, namely quantum field theory and general relativity on the one hand, and evolution of natural selection on the other, both entail that space-time is not fundamental.
+Our two or three premier scientific theories really tell us their limits.
+They tell us that space-time cannot be fundamental.
+And so if we're going to look for a theory of consciousness, and we start with something inside space-time, we're already starting where our best scientific theories tell us it's not fundamental.
+So as a result, I've been trying to then say, well, if space-time isn't fundamental and we don't yet know what's more fundamental, then we're going to have to look for a theory of consciousness.
+And I think that's a good example.
+If space-time is not fundamental and we don't yet know what's more fundamental, why don't we first start with trying to get a mathematical theory of consciousness on its own terms?
+What is consciousness?
+What kinds of assumptions can we make about it?
+And then we can ask the question, is consciousness more fundamental than space-time?
+What is the time?
+So, and I can go in some of the details if we want to on that model, but the big picture is that I'm taking very seriously that evolution of a natural selection entails that none of our sensory systems tell us the truth about objective reality, and that therefore space-time is not an objective truth, it's just a representation of fitness payoffs.
+And that physicists are finding the same thing that Nima Arkani-Hamed, for example, at the Institute for Advanced Study at Princeton, basically has lectures where he says space-time is doomed and here's why.
+And the best physicists are now trying to figure out what's next.
+Space-time has had a good run for several centuries and it's over.
+Space-time is not fundamental and the contents of space-time are not fundamental.
+And so we need to figure out, and he's got things, working with Juan Maldacena on things like cosmological polytopes, they're finding structures beyond space-time from which space-time can emerge as a projection, as a special case.
+But in these deeper theories, there is no time and there is no space.
+But there are symmetries that are true of, for example, scattering amplitudes data, that are true, that you can't see in space-time.
+They can predict the data, but they don't use space and time as the fundamental concepts.
+And I think that as we start to go into scientific theories of consciousness, we cannot ignore what our physicist colleagues are telling us.
+They're telling us if you're looking for something fundamental, it's not space-time, and in particular, it's not time.
+And that is a real showstopper.
+It's for the physicists too.
+I mean, trying to think outside of the time box is not easy for the physicists.
+And so what do we do if we don't have space-time, if we don't have time?
+So I think that that's one of the interesting questions that we have to face.
+If we're going to come up with a theory of consciousness, what do we take as fundamental in our theory?
+If we take anything inside space-time, we're already sort of cutting ourselves off because we know that as physics progresses, things inside space-time will just be shown to be secondary.
+So we can go into my details on my current model of consciousness, but maybe we should talk first about the more meta ideas.
+
+
+
+
+
+JOSCHA
+It's interesting that you start outing yourself as a mysterionist in a way, right?
+The mysterionism being the position that human minds are basically not equipped to understand how they work or how the universe works, that they're embedded in at a very deep level.
+And I sometimes joke that mysterionism is the position that something cannot be understood if it cannot be understood by Noam Chomsky.
+Noam Chomsky is a mysterious with respect to the mind.
+At the Science of Consciousness conference, he once gave a presentation where he talks about Descartes and then mentions that Descartes was actually a very smart fellow because he could already anticipate stuff that would only be discovered much, much later on.
+And I was perking up and wondering, my God, Chomsky is giving this guy credit.
+And it turned out what he anticipated was that he was actually a very smart fellow.
+And it turned out what he anticipated was that we would later, like Chomsky, discover that the mind is unintelligible.
+Right?
+So, it's fascinating, of course, if you are one of the smartest minds of your own generation and you see that other people don't understand things that you understand.
+And there is a boundary where nobody seems to have an understanding and you crash against it.
+You might think, okay, maybe there is no way that humans can do it.
+Not convinced that the case is.
+I'm not a mysterianist at this point in my intellectual career.
+And it's in part because I come from the other side.
+So, many of the things that people took as a given for a long time, like space and time, appeared to me in the beginning quite mysterious.
+So, basically, the dissolution of space and time was not that mysterious to me.
+Basically, I'm a computer scientist.
+I started very, very early on in my life to program before I properly understood mathematics and before I understood physics.
+And I understood how to make things in a computer.
+And Einstein's watch that is ticking away and you can observe its movements and so on, but you cannot open it and you can come up with theories what's happening inside.
+To me, this watch was the screen of a computer.
+And I understood that there is no limit to what can be put into the computer if it has enough resources.
+So, if the computer is fast enough and has enough memory, there is no pattern that cannot be shown on the screen.
+There is no limit to the sequence of patterns that is to be shown on the screen.
+So, any observation that I am making, if I understand it as a pattern on some kind of screen that is visible to me, I will always be able to construct something, a mechanism that is on the other side and produces the sequence.
+And now the question is, can I produce an elegant sequence?
+Can I produce a minimal pattern?
+Can I produce something from which I think it's plausible that it emerged by itself?
+And that is to me this big important question of physics.
+The idea of physicalism to me is the notion that we live in a reality that is fully emergent over a coarsely closed mechanical layer.
+And we are in that base reality that emerges from it.
+And the alternatives to physicalism is that this base layer is somewhere else.
+Because even if we live in a simulation that is created by some kind of supernatural being, something must have created the supernatural being in its parent universe, right?
+So, ultimately, every supernatural event is going to have some kind of natural cause, some kind of prime mover that is taking away in the void and producing the patterns that we observe.
+And the patterns that we observe are so damn regular.
+And there's all this conservation going on of information that it doesn't seem like a conspiracy to me.
+It seems that we're not in a simulation.
+It seems that the idea that consciousness could be primary to our reality is not true.
+Because consciousness being primary means that you would have to live in somebody else's mind.
+That we live in some kind of conspirational simulation that somebody has set up for us.
+And while that is possible, and I can in principle not exclude it, because there can be no evidence that can ever be fully conclusive if somebody sets it up to deceive me, there is no reason for me to believe it.
+Because there are not enough things happening in my reality that counteract the notion that I live in a mechanical universe.
+The few things that pop up, I can still explain this by faulty memories and psychosis.
+Right?
+So, the only thing that needs to be explained, I was puzzling people like Turing and other thinkers, is there's a possibility that telepathy is true.
+If that would be true, right, it would not be compatible with the way in which we understand physics right now.
+And there's this question, is there a point at which we have to discard physics fully and accept that you live in some kind of simulation, in some kind of dream universe that somebody has set up, like a computer game where you can arbitrarily break causality when it's convenient?
+Or is this something that we need to extend physics?
+Or is it just something where our minds are playing tricks with us?
+And we know our minds are playing lots of tricks with us.
+So, Turing considered the possibility that telepathy exists as very real to this, to the point where he included this in his 1950 paper, Computing Machinery and Intelligence, where he sketches out the Turing test and seriously asks what the Turing test would have to involve for such a system, the ability to be telepathic.
+And if it's not, what difference would it make?
+Doesn't get to the point where he assesses out loud that if telepathy is possible, you cannot be sure which of your thoughts and feelings originate in your own brain.
+They could come from somewhere else, right?
+So, this opens up the door to lots and lots of things.
+But for the time being, I think that the evidence for telepathy is weak.
+And if telepathy would exist, I would be seriously willing to consider this together with Turing.
+It's not clear whether we cannot find a mechanical explanation for it.
+There's always going to be some kind of computer program that explains the patterns on the screen.
+Now, if we think about space, to me as a kid that was programming, the notion of a continuous space never made sense.
+Because it's not computable.
+I cannot write something that is continuous space.
+And when I tried to wrap my mind around the mathematics, the language broke.
+I was not able to understand how to make a point that is infinitely small, yet fits together.
+If you add infinitely many of these points into a continuum, this just doesn't work, right?
+But it's not a problem to make something that exactly looks like this.
+It's not a problem to make a computer game that looks continuous.
+It's not a computer game that produces physics that looks similar to what we can observe, at least in the simplification.
+Of course, our computers are extremely inefficient when it comes to simulating the substrate layer, the quantum mechanics that we can observe, or a layer below the quantum mechanics, because quantum mechanics is probably not the lowest layer in which physics plays out.
+It's just the lowest layer in which we can currently make observations that we can conceptualize.
+And this leads us to what you also mentioned, what is a photon?
+I don't think that Einstein started out with the assumption that the speed of light is fixed.
+I think it was a derivation that he made.
+He concluded that the speed of light is fixed.
+And he basically, once he had this conclusion, he had implications for the possible descriptions of space-time that emerged.
+Because when the speed of light is fixed, you end up with some very interesting paradoxes if you stay in a Newtonian universe.
+You have this issue, imagine you fly in a very fast spaceship, and you are shooting light out of your flashlight inside of your spaceship.
+Wouldn't the speed of light necessarily add up to the speed of the spaceship to an external observer?
+So wouldn't this external observer not need to observe a different speed of light than the person traveling in the spaceship?
+And if the speed of light is constant always, it means that the thing that now has to change is time or space or both.
+You can still fix this if you make sure that the speed of time runs in a different way.
+And this leads us to the insight that the time and space that we observe from our own perspectives as emergent observer and whatever universe produces us are interdependent.
+They're not independent of each other.
+The speed of light depends on the trajectory that, you know, the speed of time depends on the trajectory that you are taking through the universe.
+And if you want to think about something that could be more fundamental, we would say that the photon is a carrier of the electromagnetic force.
+It's a type of boson, which means it can be described as a certain pattern that has an integer spin.
+And it has the property that it is describing the potentiality for measuring some electromagnetic interaction.
+So if we take space-time from the perspective of the observer, it's the set of locations that can contain information and the set of trajectories that the information can take.
+And the photon is a model of information traveling through space-time.
+And what we have discovered and what Einstein also sometimes suspected is that space itself cannot be fundamental.
+And there were concrete reasons to see this because what was discovered during Einstein's career, even when he was aware of this discovery, was that there were singularities in space-time, which means points at where the mathematics of continuous space breaks down.
+So your mathematics doesn't work anymore.
+You have some kind of a division by zero.
+Something unpleasant happens where your mathematics is no longer valid.
+And what Einstein saw is that you can fix this by shifting the singularities around in our space-time model.
+And we can basically put them below the carpet.
+We can put them in centers of mass.
+So in the center of mass, there is basically something like a little black hole where mathematics doesn't work anymore.
+The mathematics of space-time, where your mathematical description of that world doesn't work anymore.
+And what could be more fundamental than space-time?
+I think it could be transitions.
+So you describe the universe as some kind of state vector, a set of information, and this information is dynamic.
+You have the way in which information moves between the locations.
+And in this paradigm, the speed of light could be the rate at which information propagates between locations.
+And this would be an upper limit of all interactions that we observe within this lattice, where stuff is densely connected.
+What would be necessary to, if you have a set of locations, some kind of graph, a causal graph, and information flowing between them, to understand that there is causal structure?
+Well, you need to understand where the information comes from to understand what it signifies, so you can model it.
+How can a single bit mean anything to you if it's just a single bit, if it's not attached with the source, with the type, with the context?
+So what could be a way to figure out where information comes from?
+Well, it needs to have some kind of momentum, some kind of direction.
+To carry information about direction, and you send this to a graph that by itself just has just locations, connections.
+The only way that you can do this is if this thing is extended, if it's not just a single location to which the information propagates, but if it's neighboring connections, and you get information that verifies it.
+So you need to be in some kind of densely strung lattice for information that you can pinpoint.
+Basically, you need to have something that looks like a continuous space, so you can identify controllable structure that you can identify where stuff comes from, like a photon.
+And if there is information that is traveling across distance, so to speak, that is non-local, that is not going through densely connected local connections, but that is going over individual long-range links, this information will look like a random fluctuation or a distant entanglement that you can no longer track if you don't know where it originated.
+And this will look like something like indeterminism from your local observer perspective.
+Still, it would not be in contradiction to the preservation of information.
+It would still be a universe in which information is not invented, but in which the amount of discernible information is constant.
+And if the universe was not in such a way that information would be preserved, of course it would not be learnable, because it would mean that the present state of the universe is forgetting what happened before in the universe.
+It gets disconnected, the worldline of the universe just gets disconnected.
+And so from an epistemological perspective, we can only learn the aspects of the universe that look like they are conserved.
+If there are things in the universe that are not conserved, then they will not be intelligible to us.
+And of course it's conceivable that the universe is some kind of automaton that forgets information.
+Another thing that shows us that space-time cannot be fundamental, besides a well-theorized which destroys the notion of locality, is the notion of the collapse of the wave function.
+Basically, this collapse of the wave function is the point in the history of an observer beyond which we cannot obtain a model of locations of events in time and space.
+Beyond that point, it's no longer not just that we don't have enough information to construct it, but it makes no sense anymore to assume that the photon was at a particular point when it went to the double slit.
+At this point, the space-time model breaks down.
+The space-time model is a mathematical abstraction that works relatively well to look at things happening in the limit.
+But it's not a model that can be fundamental, I think.
+But I'm not a physicist, so I'm not actually qualified to have these opinions.
+This is just what it looks like to me as a computer scientist who tries to understand the mind and thinks like Donald, that we have to understand a certain degree of physics to make sure that our theories of consciousness are tight and that they make sense.
+And we have to understand in which way they could possibly relate to physics.
+I'm less convinced that Donald, that a deep understanding of physics is necessary or that physics is going to teach us about consciousness, in part because I don't think that consciousness is that mysterious anymore.
+I spent a lot of time in my life thinking that it was mysterious, but it seems to be a riddle that can be solved.
+And basically, I think that there's some aspects to consciousness, for instance, that you're observing yourself to be observing, but consciousness is something that is entirely virtual.
+It's not a physical thing.
+Electrons, photons, physical entities, neurons, brains cannot be conscious.
+They're just mechanisms.
+And what we can see is that the elements of our consciousness are not mechanical, they're magical somehow.
+There is magic happening.
+And if there is magic happening, it means that it's an a-causal structure.
+It's something that has been made on some kind of causal loom, but that is not necessarily built in the same mechanical way as physics is built.
+It's a story.
+It's a tale being told by a physical system to itself.
+And if you think about organisms, you often think of them as physical systems, and then neither, right?
+The organism doesn't exist.
+It's not the same, if you think about it.
+What exists are cells that interact with each other, and even the cells don't really exist.
+What exists are molecules, and even the molecules don't really exist, right?
+They're all layers of descriptions.
+They're models that we can make because they are coherent.
+They hold to some degree.
+It might be frazzling out at the boundaries, but there are ways of thinking about the flow of information in the universe.
+And the organism is a coherent pattern that we observe in the interaction between cells.
+And the cells have been set up by evolution to interact in this coherent pattern because when they interact, as if they were driven by a single spirit, by a single target, by a single telos, and if their behavior is coherent and consistent, that are state-building, then they have an advantage over cells which don't do that and just fight for themselves because together they can play longer games.
+By playing longer games, they can occupy niches in nature that cannot be occupied by control systems that play shorter games.
+And this is the benefit that organisms have, these coordinations between cells.
+And an organism is a function that describes this pattern in the cells.
+And the organism is facilitated by information processing across cells, among other things.
+To coordinate its interactions, the organism needs to have something like a telegraph network by which it's able to make models of reality and coordinate them between the cells and coordinate the behavior of the cells.
+And in animals, this telegraph system is facilitated in large part by the nervous system.
+It would not be necessary that the nervous system, basically every cell type, can do this.
+But if you want to make it fast, you need to have specialized cells that have a very quick, expensive metabolism and can send information over very long distances very quickly, which other cell types cannot.
+So, neurons are a specific type of cells that allow particular kinds of information processing.
+And this information processing has the property that it can put stuff on the screen.
+So, it's some kind of computer.
+It's a thing that can produce arbitrary sequences of patterns if it discovers a suitable function to produce them and implement them in the distributed networks of cells.
+And part of what they're doing is that they create a story about a being that lives in the outside world.
+And in our culture, we have difficulty understanding how that is, because we, in our culture, as a default, teach our kids that what they see is the physical world.
+And the physical world has sounds and colors and so on.
+Only much later, we tell them, well, it's slightly more complicated and sounds and color are not actually in physics.
+Everything that you consider to be sounds and colors is photons.
+Photons make electromagnetic interaction, which let air molecules push against each other so they can form regular waves.
+And colors are local dimensions that you get by measuring or sampling the frequency of the electromagnetic spectrum using different receptor types and making a model of them using polar coordinates.
+So, this is something that we don't tell the story fully to our children, which makes it even more confusing.
+And then we tell them photons are actually not little billiard balls, but they are regions in the space-time that have a potential for electromagnetic interaction.
+And this space that you're talking about is the photonic space.
+It's the space where you can possibly have photon interactions.
+For some reason, it's three-dimensional.
+And maybe there are other spaces that are not three-dimensional, and maybe in these spaces, you cannot have interacting matter in the same way.
+Because maybe in order to get stable objects, you need to make little knots in the electromagnetic structure or in the spatial structure, and you cannot make knots in 2D and in 4D, they fall apart.
+So, maybe that's the reason.
+Or maybe there's another one, and we haven't completely figured it out yet.
+And there are some candidates that explain why the space that we are in is three-dimensional.
+So, why is it that we are interacting with the photonic space and not with the others?
+Why are the others not seeming to form a connected space in this connected lattice?
+But we don't know the answer yet.
+At least, I'm not aware of the book that is sketching out the answer.
+And if I stumble on it, I pray that I understand it.
+But I think that there are other cultures that have a better intuitive understanding of what consciousness is.
+And if you look around, you find that some cultures don't find consciousness mysterious.
+I even suspect that in the core of our own culture, before the Tower of Babel that destroyed the shared understanding, it's still in there.
+So, a little bit obsessed these days with thinking about Genesis in the Bible and read this epistemologically correct, not as a myth that is stand-in for an origin theory until real science comes along, but as something that is literally true.
+So, what would that mean?
+I'm talking about the first book.
+I'm talking about the book that starts out with the creation of sky and darkness and heaven and earth and so on.
+And the thing with this story, if you take it literally the way in which Christianity interprets it, it's a story about a supernatural being creating a physical universe.
+And what's wrong with the story is that whoever tells it to you had no evidence that it was true.
+So, there is no claim.
+If somebody makes a claim without evidence, you don't have to listen.
+It could be interesting as a story for cultural reference, or it could be interesting as an idea for something that you could test.
+But if it's in principle not testable, this person cannot have that evidence.
+There is no secret source of knowledge that this person had.
+There is in principle nothing that some other person can have this with some kind of back channel by talking to a burning bush that would constitute a valid experiment.
+So, this reading makes no sense.
+It would never make any sense, but it could make sense, especially if you understand that sky and ground and light and sound and plants and animals and their names don't actually exist in physics.
+They only exist in our mind as a division of the universe into separate objects, so they become intelligible to us.
+And the way in which we construct these objects is inside of the mind.
+So, the creation of the universe that is being described in Genesis is not the physicalist universe with quantum mechanics.
+It's the creation of the experiential universe in which we are actually in, in which we find ourselves to be in.
+And the first thing that the mind is discovering when it creates this universe is how to make light, right?
+How to create neural oscillators that are creating a contrast between light and darkness.
+So, separate the light from the darkness and then organize this into multiple dimensions until you get a space.
+And then you align the space with the information from your vestibular organs and what you get is the two-dimensional plane of the ground and the three-dimensional space of the sky above it.
+Right?
+So, after you create light and darkness, you create, literally, every mind does this in their cognitive development, the sky and the ground.
+And then you discover the objects in it.
+So, you basically learn how to model materials in your mind.
+So, you have solids and you have liquids and you have organic shapes and you have animated agents.
+And then you discover features that you cannot interact with, like celestial bodies, and anchor them in the world and you learn how to navigate this world.
+And then you discover all the plants and the animals and you construct them in your mind and you associate them all with their names.
+So, again, of course, not a feature of the physical world.
+They are socially exchanged, these names and so on.
+We create this world together.
+And then, last but not least, we create a person.
+So, the thing that creates it is not a person yet.
+It's a mind that exists before a person is around.
+We don't remember how we made light.
+We don't remember how we discovered the sky and the ground in the first space.
+This was another observing agent in our own brain.
+And this observing agent in our own brain, at some point, discovers the needs of a person, of the needs of an organism, the organism that its brain is embedded in.
+And it creates a model of that, too.
+So, it creates an agent that is observing this universe, that is embedded in this universe, because this first observer in our own mind is discovering that such an entity exists.
+It's a useful model to describe reality, that there is a person that has needs and desires and social embedding and dreams and hopes and memories and expectations.
+And it will create a story of that.
+And that story is just as real as the trees that exist in our mind as imaginations or the trees or the forest and beyond the horizon.
+And as real as the sky and the clouds and the colors and so on.
+But they're all virtual.
+They're all simulacra.
+They all exist to tell a story to the organism that is useful for the organism to model the world.
+And this part where we become a person seems to be happening, I think, around the age of one and a half to two and a half, roughly, in most children that I observed.
+And at this point, a person that is different from before emerges in their mind.
+It's not that there is nobody there before.
+It's just that the thing before is different.
+And you notice that there is a gap in their memories.
+They have memories when they're in their first year when you talk to them, where they remember what happened and have expectations already.
+But later on, there is this point where they don't remember these things anymore.
+It's very weird.
+And most people, when they think back, don't have memories that they can consciously access before they're like two and a half years old.
+And so I wonder if this transition is the result of just a re-indexing of memories due to our newfound linguistic ability.
+So if we can later on no longer access these memories, or if it's really just basically a new agent that is created by the first agent in its own image as an observer that is aware of the fact that it's observing.
+But in a different way, as men and women, as something that thinks it's a person, that thinks it's a human being.
+And I'm not a human being.
+I realize that at some level.
+I don't have an identity as a human being.
+This is a story that my mind tells itself.
+It's an additional thing.
+My consciousness doesn't have an identity.
+My consciousness is also not of the nature that it's the same as everybody else's consciousness.
+The question, do we all have the same consciousness looking through different eyes or with separate consciousnesses, is in some sense as meaningless as the question of asking, is the text editor that you're running onto your computer the same text editor that everybody else runs on their computer?
+Or is it a different one?
+The program word is in some sense a natural law.
+If you put the circuits of your computer in the same functional configuration, then those things are going to happen with the circuits of your computer and they will afford the following interactions.
+But the program word doesn't have an identity.
+And it's also not that it has no identity in the sense it's just not a meaningful category to apply to it.
+In the same sense, my consciousness is not in this category that would have an identity or none.
+So it's not something that is shared with others.
+And it's not something that is separate from others.
+It's a principle that applies to the observation.
+And when the consciousness gets tied to a self-model, then it becomes perspectival and I have an identity and so on.
+But this identity is a particular kind of model that my organism tells itself by changing certain factors in my own brain.
+Okay.
+Let's let Don respond.
+Yeah.
+Well, there's quite a bit there.
+So on the nature of the physical world and computation and the finiteness versus continuity of space-time and so forth, I think that the work, you know, Gödel's incompleteness theorem is very relevant here.
+That the notion of truth is far deeper than the notion of proof.
+There are any system, any computational system will have things that it can prove, but there will be truths that that computational system cannot access.
+And if you add a new truth of, you know, like Gödel's statement to your set of axioms, then there'll be yet more truths that cannot be accessed from that.
+And so what you can compute is always going to be trivial to what is true.
+There will always be, as far as I can tell, again, it's sort of like Newton's notion of we're at the seashore and the vast ocean of of reality of the truths, he actually used the word truth, the vast ocean of truths is out there beyond what we can compute.
+And every truth that you add to your base for computation doesn't solve the problem.
+And you might say, well, that's true, you know, of abstract mathematics, but that's not true of physics.
+I mean, physics itself is computable, but that there's some recent work suggesting that that's not the case.
+So Tony Kubit, a physicist, and his colleagues have recently proved that a very important problem to condensed matter physicists called the spectral gap problem is not computable.
+And that's a stunning result.
+And they also suspect, and they're working on this, they haven't proven this yet, but that something that's a big open problem, I think the Millennium Prize Committee has, this is one of their problems, is to understand the Yang-Mills gas gap problem, which is, you know, why do photons and gravitons have no mass, but the recarious of the strong weak force do have mass?
+And Kubit and his collaborators think, again, that we're going to find that something non-computational is going on here.
+It's not decidable.
+And my guess is that this is just the beginning, that we're going to find that as powerful as computation is, and, you know, I was in the artificial intelligence lab at MIT for my PhD, and I'm all for AI and for computation, and I, you know, I think it's fabulous what computation can do.
+And the naysayers who think that the computation can't do amazing things and artificial intelligence can have important limits that, I think that the naysayers, I disagree with the naysayers.
+On the other hand, I do believe Gödel's incompleteness theorem is correct, and I do think that the notion of truth is just vastly, that the notion, the set of truths, I'll put it this way, the set of things that we can prove from any system is essentially probability zero in the set of all truths.
+In other words, we're always going to be, as I said, we're always going to be, as Newton said, on the seashore with computation, and it's for principled reasons.
+So it's not a mysterianism that's not founded, it's saying our best theories tell us that truth and proof are not the same thing, and that proofs will always only leave you on the seashore.
+And so that's why, I mean, I didn't like that conclusion, but, you know, Gödel proved it, and now physicists are finding it in, you know, the spectral gap, and so as much as I like computation, I'm a computer scientist myself, as much as I like computation, I have to defer to the mathematical proofs that say computation goes thus far and no further, then ask myself, okay, how can, so my conceptual system then is itself just a symbolic system.
+With derivation rules.
+So what I can compute by my thought is also going to be limited, which is why I was saying up front what I think about scientific theories, right?
+Scientific theories are going to have these limitations.
+We will put down a set of axioms, each theory, a good scientific theory will tell you exactly what it assumes, and it will also give you a hint about the kind of derivations that you can give from those assumptions, and then you use, you find what that theory will entail.
+But our best theories, like quantum theory and relativity, and evolution of natural selection, the best theories will also tell you where they stop.
+They will say we go this far and no further.
+And for example, physics tells us that space-time itself cannot be fundamental, that the very notion of space-time cannot be fundamental, which is stunning because physics for several centuries has essentially been the study of what happens in space and time.
+And so to say that space-time is not fundamental means that the physicists have to redefine what physics is about.
+And that's what, for example, Juan Maldacena and Nimar Kani-Hamed are trying to do with things like the cosmological polytope and amplituhedron and so forth.
+They're finding structures where there are no Hilbert spaces, so there's no quantum theory, there is no time, there is no space, there are these positive geometries, and what you find is you can predict events in space-time, like scattering processes that you see at the Large Hadron Collider, you can predict them, and in fact you can actually compute them in some sense better than if you assume space-time.
+So they're finding that, you know, if you use Feynman diagrams and try to compute scattering amplitudes for two gluons coming in and four gluons scattering out using the standard quantum field theoretic approaches where space and time is assumed, you get hundreds of pages of algebra and it's a mess.
+Whereas if you let go of space-time and look at these structures with symmetries that cannot be expressed in space-time, dual conformal symmetry, then you find that the same scattering amplitudes can be processed in just two or three terms that you can write down pen and paper on a sheet of paper.
+So all of a sudden, so what they're seeing is space-time has had a good run, but if you force yourself to stick with space-time, then the math is ugly, you get hundreds of pages of algebra to compute scattering amplitudes, you can't see the symmetries that are there, like dual conformal symmetry.
+If you let go of space-time, you're finding these amazing structures that they don't know what they're about, but all of a sudden you see the right symmetries and the computations become trivial.
+So there's some big hint that I think on a couple fronts from Gerdl and from the work by Tony Kubit and his team that the computation is as powerful as it is and as much as I love it as an AI person and a cognitive scientist, it's always going to be on the seashore with Newton.
+And when we let go of space-time, we're still of course as theorists always going to have a finite set of axioms and derivations about, you know, like the cosmological polytope and so forth that Nima and Juan are finding.
+We're still going to have a finite set of concepts and derivations, so we're not going to get around Gerdl's incompleteness theorem, but at least we're going beyond the notion of time, which is really critical.
+And that also cuts at the computational issues, pretty interesting.
+Computational complexity is about, you know, a lot of it is about time complexity.
+And what physicists are telling us is that ultimately we're going to have to let go of the notion of time.
+And so as computer scientists, we're going to have to rethink complexity issues when the very notion of time itself isn't fundamental.
+So that's going to be a real kicker for us in computer science.
+How do we think about complexity issues when time itself is not the right way to think about things?
+And therefore the sequence of computations in time is not the right way to think about things.
+We have some really deep thinking to do ahead.
+But where I think we share some common ground, Joscha, is I think that a lot of our experiences and so forth, our models that we built, I think that we are building internal models.
+But the question is, what is the apparatus that's building those models?
+And I'm saying it's nothing inside space and time.
+So in particular, I'll be very, very explicit.
+I don't think that neurons exist when they're not perceived.
+I don't think space-time exists when it's not perceived.
+I think neurons and space-time and even particles are simply data structures that we use.
+And there's a formulation of quantum theory that's very similar to this.
+It's called cubism, quantum Bayesianism, Chris Fuchs and David Merman, where they take this point of view that it's the every act of observation in physics, every experiment that you do is an act of fact creation.
+Right?
+It's not that there are pre-existing particles with pre-existing states and you're measuring those states.
+Rather, they're subjective Bayesians.
+So all the probabilities in quantum theory are subjective probabilities.
+They're not objective probabilities.
+And every outcome is a fact creation.
+And they do have, I mean, Chris Fuchs has a very interesting 2010 paper called Cubism that I highly recommend.
+And in that paper, he actually points to a very interesting quantum discovery that there's a sequence of what's proven is that even if you know what the outcome of your experiment is going to be with probability one, that does not entail that the outcome is there and exists independent of your observation.
+That's a stunning thing to say.
+It's a probability one, you know, with probability one, what you're going to measure.
+And yet you can prove with quantum mechanics that it's impossible that the outcome was there, the value existed before you made the measurement.
+So that the, it's really the case that the acts of observation are fact creations, not fact discoveries.
+So most of the work that's done in consciousness assumes, and I would say this is 99% of the theories that I've seen in consciousness, assume that space-time is fundamental, assume that physical particles are fundamental, and that somehow neural activity in humans and perhaps other kinds of more complex activity in AIs creates consciousness.
+But the very founding assumptions that space-time is fundamental, that neurons exist when they're not perceived, contradicts our best physics.
+And it also contradicts evolution of natural selection, which is very, very clear.
+Natural selection makes it very clear that the probability is zero, that the sensory systems of any organism tell them any truths about objective reality.
+What they tell organisms, sensory systems evolved to tell organisms how to behave in order to stay alive, period.
+That's it.
+And so that gives you a user interface for staying alive, but gives you no access to the truth.
+And that fits with what physics is telling us, that space-time is a user interface, but it's not the final truth.
+And so what I want from a theory of consciousness as a scientist is I want a clear statement of what am I assuming?
+What are the exact things that my theory takes as primitive?
+What are the exact rules that allow me to derive things from those primitives?
+And how exactly do I get the taste of chocolate from that?
+That's what I'm looking for from a theory of consciousness, precise statement of exactly what I'm assuming up front with mathematical precision, and then precise derivation.
+If I'm not taking the taste of chocolate as fundamental, if I'm saying that somehow some dynamical system is going to give it to me, then I want to know exactly which dynamical system is giving me the taste of chocolate and why that dynamical system could not be the smell of garlic.
+I want to know exactly.
+Otherwise, there's no real science on the table at all.
+So that's what I'm looking for, is theories that say exactly what the assumptions are and tell me exactly for at least one specific conscious experience, how that conscious experience must be derived in that way.
+And so that's where I'm coming from on those.
+Now, in the case of cells and the brain, I would just mention something that's very interesting, that you probably know about Mike Levin's work.
+And he's finding that cells, not just neurons, but any cell in animals that, in fact, outside of the brain, they can learn and they can compute and they can do morphogenesis of the cell's body.
+They use gap junction, communication, electric.
+So they're effectively doing what neurons do, but in a very, very different way.
+And this is, all cells can communicate in this way with gap junctions and so forth.
+So I suspect that we're going to find that neurons aren't special in the sense of being information processors, that information processing, and this seems to be where Mike is heading, is that information processing is happening in what he calls these bioelectric fields, even if there are no neurons, and that they can learn, they can retain memories, and they can be very intelligent.
+So even as neuroscientists, we may find that we'll have to expand our horizons beyond neuroscience and understand, if I were a reductionist and trying to do biological reduction, I would, at this point with Mike Levin's stuff, be interested to say, well, maybe I wouldn't necessarily reduce consciousness to neural activity.
+Maybe these gap junctions and the computations that cells can do would also be a suitable format.
+But again, I'm not a reductionist in that sense, but I'll stop unless you respond, Josche.
+Thank you.
+You went very far and wide and tried to be a little bit more concise.
+Let's start out with Gödel.
+Gödel's proof had a very profound and not necessarily very positive influence on philosophy.
+And basically, Lukács and others in philosophy opened up a tradition that the underlying current is that what Gödel has shown is that mathematics is impotent to describe reality.
+And therefore, reality can only be described by people who don't really know mathematics, that is philosophers.
+So philosophers like that intuition.
+But it implies that there is something beyond mathematics that allows you to make sense of things that assign truth.
+And slightly deeper, when you say that you like computation and you value it and so on, and you see its limits, it implies that you see what comes beyond these limits and you're using that thing beyond the limits to think.
+And I don't think that you are.
+Everything in my own mind that I can observe, when I observe myself perceiving, when I perceive myself reflecting, when I perceive myself reasoning, is computational.
+It means that I go from state to state in a somewhat deterministic way.
+The random parts are just deleting bits that I computed before, so I have to do it again.
+The randomness and determinism doesn't help me.
+So the part of my mind that is relevant to my thinking is fundamentally computational.
+What Gödel discovered, and is often misunderstood, and also by Gödel himself, is a very important thing.
+What Gödel has discovered is not that truth is deeper than proof.
+That was in some sense the suspicion which he started with.
+He knew that, in his view, that truth is platonic, that things can be true or not regardless of whether we find out or whether it can be found out.
+And he hoped to find a notion of truth, of proof, that could reach truth.
+And he found that it couldn't, and he found this in a devastating way.
+And he drew the conclusion that there is truth that cannot be found with mathematics.
+And the opposite is true.
+There is no deeper notion of truth than proof.
+You see, a perception cannot be true or false.
+Perception just is.
+Physical events out there in the universe cannot be true or false.
+They just are.
+A pattern that you observe is not true or false, it just is.
+Right?
+You could be erroneously thinking that you're perceiving a pattern when you don't, because you're suffering from false memory or a delusion or whatever that makes your thinking or perception inconsistent.
+But the pattern itself is not true or false.
+It's an interpretation that can be true or false.
+And the interpretation has to be in a symbolic language to have the property that can be true or false.
+A perceptual interpretation by itself is not true or false, it just is.
+Right?
+So in order to be true or false, you need to have a language.
+And the language needs to be defined in such a way that truth can be established.
+And the process of establishing truth is a computation.
+And there are two types of languages in which truth can be defined.
+And the language of classical mathematics is a stateless language.
+It's one where time doesn't exist, where everything happens all at once or in some kind of eternal moment.
+So if you want to go from state to state in this language of eternal mathematics, in the stateless language, you just assign an index and then you iterate over the index and you do this in a single instant, in one moment.
+And the stateless mathematics has a very beautiful property.
+It allows you to deal with infinities, because you can now construct functions that take infinitely many arguments in a single step, perform an operation over them in a single step, and give the result back in a single step.
+It's a language in which you can assign a value to pi.
+Right?
+In the computational system, you cannot really assign a value to pi.
+You can have a function that gives you digit by digit, but you never get to the latest last digit.
+It also means that pi can never be written down in such a way that you can have a process that relies on knowing all the digits of pi and consumes them to tune the outcome of some physical process.
+If you make the switch to a stateful language, in which you can only go from step to step, you're losing certain things.
+You're losing the ability to treat pi as a value.
+Pi is now suddenly a function that you can only approximate to a certain degree.
+And many other things stop being values.
+You get a fundamental difference between a value and a function.
+A value is something that you have already computed, that you know how to compute by extension.
+And this means that also that truth changes.
+Truth is no longer this platonic thing that precedes mathematics and where we can use mathematics as a tool to figure it out.
+It has to be contingent on the language in which you use it.
+If your language has internal contradictions, then truth becomes impossible to determine.
+Right?
+You get into areas in this language where it falls apart.
+You can no longer use it to express coherent thoughts about reality and coherent models about reality.
+You can never make statements in the language that you can prove outside of the language.
+So you cannot use your language to prove things that cannot be described in the language.
+Your only hope to prove statements about the universe that you exist in in a language is that you are able to recreate the observations that you make inside of the language, which means you recreate a model of the universe that is so good that it gives you what you observe currently.
+And then you can hope that the statements that you make in your language capture something about the reality outside of you that gives rise to your observations.
+Of course, you cannot know because it could also be different.
+But if your language is not able to produce what's on your screen, then your language is wrong.
+And Hilbert gave out this task to mathematicians to find a machine, any kind of structural sound language, that is able to run the semantics of mathematics without breaking.
+And what Gödel discovered is that the semantics of stateless mathematics cannot be recovered.
+If you assume that there is a solution to get stateless mathematics to work, you will run into contradictions of the way that Gödel discovered.
+But there is a way out.
+You just drop the notion of truth that is independent of the sequence of operations, the number of the set of steps that you took, the algorithm that you took, to get to your result.
+It means that when you have a self-referential statement like this sentence is false, right, this is a sentence that of the type that Gödel has shown leads into contradictions, if you assume that there is a stable notion of truth that is stateless.
+If you accept that truth is not necessarily a stable value and you look at the sentence, then as long as you look at it, the truth value will fluctuate.
+Because the assumption that the sentence is true will lead to the sentence being false and vice versa.
+So suddenly you have no longer a stable truth predicate.
+And it just means that the property of the languages in which you can actually deal with truth and assign it is that under some circumstances the truth predicate will not be stable.
+And it's fine.
+There's nothing wrong with that.
+And this same thing applies to the Entscheidungsproblem that Turing was dealing with when he came to the Harting problem.
+He defined originally the Turing machine in such a way that we could translate stateless mathematics into algorithms.
+And this might require that you have to go through an infinite sequence of steps.
+And if you make this assumption that you sometimes in order to get to truth you have to go through an infinite sequence of steps, you run into contradictions.
+So you might use an unbounded sequence of steps that gives you continuously results.
+That's fine.
+But you cannot accept that anything exists in any kind of universe that has causal structure that is going to produce you a solution to the Harting problem, which would give you back stateless mathematics.
+So basically what Gödel and Turing have shown is that stateless mathematics doesn't work.
+And when we look back at the history of mathematics, mathematicians have never used stateless mathematics.
+They only pretended to.
+Whenever they actually wanted to compute something with mathematics, they under the hood used stateful descriptions.
+They never took in infinitely many arguments and performed infinitely many operations on them.
+And the intuition and the intuition that stateless mathematics makes sense is because we had this intuition that continuity, that space and time in a continuous fashion exist.
+Why do we have this intuition?
+Well, that's pretty easy to answer, right?
+The number of things that we interact with, if we zoom in, we find that they are discrete.
+All our observations have a discrete resolution in time and in space.
+All our knowledge that we store about these observables is as a discrete number of bits that we can assign to them.
+There is only a finite number of information that we can access and that we can deal with as an observer that is embedded in this universe.
+So everything was discrete to begin with, but it's too many parts to count.
+If you deal with too many parts to count, the insight that a number of atoms that you are in an ocean is a finite bounded number doesn't help you at all because it's still almost infinite from the perspective of an observer.
+So when you want to describe what the ocean is doing, it doesn't help to count the molecules in it and to assign locations to them and model the interactions.
+It doesn't work.
+There is too much.
+So when you look at the dynamics of too many parts to count, you're looking for operations that converge in the limit, which means they behave quite similar whether you're using a trillion or 10 trillion or a gazillion particles.
+Once you have these operators that give you the same dynamics under all circumstances, when you take more and more elements to them, this part of mathematics that describes the convergent operators, that's geometry.
+And some of geometry is uncomputable, so you can only approximate it.
+But our brain has discovered geometry to deal with a world of too many parts to count.
+And this plays into what you're pointing out when you say that our perception doesn't give us reality, it gives us something that we can work with.
+Of course, the reality that we are embedded in has too many parts to count.
+We need a different reality.
+We need one that we can actually handle, even if it's not computable and can only be approximated.
+And this experiential reality is a very coarse simplification.
+It's about as coarse as a gaming engine is when you play a computer game as compared to real physics.
+It's not much better than that.
+In many ways, it's even worse, which you can verify if you put yourself into a lucid dream and look at the fidelity of what your brain is able to generate.
+Light switches will usually not work.
+You will not be able to read the same stuff twice on the same page when you imagine it and so on.
+There's only so many bits in your working memory.
+The fidelity of what your perceptual system can track and imagine is limited.
+It's relatively easy to overcome that.
+I don't really know what the number of bits in my working memory is, and I would be very curious to find out.
+But it's not as big as I thought when I was a child.
+It's not infinite.
+It's not unlimited.
+Perception of infinity is super easy to generate when your mind is very finite.
+It's super easy to overwhelm my finite resolution mind.
+So this deep thing that Gödel misunderstood, that Gödel has not discovered that mathematics cannot reach truth, but that truth is no more than the result of a sequence of steps that is compressing a statement to axioms losslessly.
+It doesn't go beyond that.
+That was the deep insight, and it's one that basically has not percolated in most areas of philosophy and even physics yet, because the physicists have checked out the code base for mathematics before that result was obtained and understood.

@@ -22,6 +22,13 @@ This project will collect and analyze youtube transcripts on the topics of consc
 2. Extract transcripts
 
    - See `python3 -m hello-world"`
+   - Format txt files:
+     - Readability
+     - remove line breaks
+     - break lines into paragraphs
+     - convert paragraphs into single lines
+     - Timestamps (dunno how to map via json)
+     - Speaker (dunno how to map via json)
 
 3. Analyze transcripts
 
