@@ -2,6 +2,14 @@
 
 Exploring Consciousness
 
+This project will collect and analyze youtube transcripts on the topics of consciousness to create a map of the ideas and theories that are being discussed.
+
+**Channels**
+
+- [Theories of Everything with Curt Jaimungal](https://www.youtube.com/TheoriesOfEverything)
+- [Closer To Truth](https://www.youtube.com/@CloserToTruthTV)
+- [New Thinking Allowed with Jeffrey Mishlove](https://www.youtube.com/@NewThinkingAllowed)
+
 # Workflow
 
 1. Get data programmatically from [youtube](https://developers.google.com/youtube/v3/getting-started)
